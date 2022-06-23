@@ -1,0 +1,10 @@
+---
+name: user story
+about: this is our default user story template
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+As a **role** i can **capability** so that **received benefit**.
